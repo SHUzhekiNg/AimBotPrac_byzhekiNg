@@ -1,0 +1,21 @@
+CAMERA:
+  CAMERANUM: 1
+  PIXELFORMAT: "PixelType_Gvsp_BayerRG8"
+  ACQUISITIONFRAMERATE: 500.0
+  GAIN: 10.0
+  EXPOSURETIME: 3000.0
+  BLACKLEVEL: 0
+  WIDTH: 640
+  HEIGHT: 480
+  VIDEO: 
+    USEVIDEO: False
+    VIDEOPATH: "./output/video"
+  SAVE: 
+    SAVETOVIDEO: False
+    SAVEPATH: "./output/save"
+
+
+
+
+
+
